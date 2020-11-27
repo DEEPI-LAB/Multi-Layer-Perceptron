@@ -1,7 +1,9 @@
 % *********************************************
 % Multi-Layer-Perceptron - Nueral Networks
 % Jongwon Kim
-% jw.kim@sch.ac.kr
+% Deep.I Inc
+% deepi.contac.us@gmail.com
+% https://deep-eye.tistory.com/17
 % activation function = sigmoid
 % *********************************************
 
